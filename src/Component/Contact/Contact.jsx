@@ -32,13 +32,13 @@ export default function Contact() {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>rjc22ron@gmail.com</h5>
-            <a href='mailto:kaustubhnangarepatil8691@gmail.com' target="_blank">Send a message</a>
+            <a href='mailto:rjc22aug@gmail.com' target="_blank">Send a message</a>
           </article>
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
-            <h5>kaustubh_nangarepatil</h5>
-            <a href='https://m.me/ernest.achiver'  target="_blank">Send a message</a>
+            <h5>Ranajit Chandra</h5>
+            <a href=''  target="_blank">Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
